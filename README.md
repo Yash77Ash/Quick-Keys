@@ -51,9 +51,9 @@ QuickKeys is a car rental web application designed to streamline the process of 
 - **Spring Boot**
 - **Spring MVC**
 - **Spring Data JPA**
-- **MySQL** (or any RDBMS)
+- **MySQL** 
 - **Lombok**
-- **Thymeleaf (if frontend integrated)**
+- **Thymeleaf **
 
 ---
 
